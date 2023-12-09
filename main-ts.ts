@@ -40,7 +40,7 @@ function getPrimeNums(max: number): number[] {
         if (isPrime[i] === false) continue;
         primeNums.push(i);
         // iの倍数を素数から除外
-        for (let j = i; j < max; j += i) {
+        for (let j = i*i; j < max; j += i) {
             isPrime[j] = false;
         }
     }

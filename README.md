@@ -8,7 +8,7 @@ JSとTSは書いたことある
 - [TypeScript](./main-ts.ts)
 - [C#](./main-cs.cs)
 - [Golang](./main-go.go)
-- Rust
+- [Rust](./main-rust.rs)
 - Ruby
 
 ---
