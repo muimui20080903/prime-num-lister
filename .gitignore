@@ -1,5 +1,9 @@
+# C#
 *.exe
 bin
 obj
 prime-num-lister.csproj
 prime-num-lister.sln
+
+# Rust
+main-rust

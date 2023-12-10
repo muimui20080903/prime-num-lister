@@ -3,13 +3,20 @@
 気に入った言語を勉強する  
 JSとTSは書いたことある
 
-# 言語
-- [JavaScript](./main-js.js)
-- [TypeScript](./main-ts.ts)
-- [C#](./main-cs.cs)
-- [Golang](./main-go.go)
-- [Rust](./main-rust.rs)
-- Ruby
+# 言語と実行方法
+- [JavaScript](./main-js.js)  
+`node main-js.js`
+- [TypeScript](./main-ts.ts)  
+`deno run main-ts.ts`
+- [C#](./main-cs.cs)  
+`dotnet run main-cs.cs`
+- [Golang](./main-go.go)  
+`go run main-go.go`
+- [Rust](./main-rust.rs)  
+`rustc main-rust.rs && ./main-rust`
+- [Ruby](./main-ruby.rb)
+`ruby main-ruby.rb`
+
 
 ---
 misskeyのフォロワーに教えてもらったこの方法で実装する  
