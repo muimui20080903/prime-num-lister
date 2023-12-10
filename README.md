@@ -14,7 +14,7 @@ JSとTSは書いたことある
 `go run main-go.go`
 - [Rust](./main-rust.rs)  
 `rustc main-rust.rs && ./main-rust`
-- [Ruby](./main-ruby.rb)
+- [Ruby](./main-ruby.rb)  
 `ruby main-ruby.rb`
 
 
